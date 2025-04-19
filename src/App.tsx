@@ -1,11 +1,11 @@
-import './App.css'
+import "./App.css";
 
 function App() {
   return (
     <>
-      <h1>NexCart</h1>    
+      <h1>Welcome to NexCart!</h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
